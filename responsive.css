@@ -1,0 +1,357 @@
+@media (min-width: 951px) and (max-width: 1250px) {
+    .navbar-brand img{
+        width:85px !important;
+    }
+    .netflix-padding-left{
+        padding-left: 42px !important;
+    }
+    
+    .netflix-padding-right{
+        padding-right: 42px !important;
+    }
+
+    .netflix-row .right i{
+        font-size:18px;
+        color: #fff;
+        padding: 5px 15px !important;
+    }
+
+    .netflix-profile{
+        margin-left:  15px !important;
+    }
+
+    .netflix-home-video .content .left{
+        margin-left: 65px !important;
+    }
+
+    .netflix-home-video .content .left img{
+        margin-top: 165px !important;
+        width: 600px;
+     }
+
+     .netflix-home-video .content .left button{
+        font-size: 14px !important;
+        width: max-content !important;
+    }
+
+    /*slider */
+
+    .slider1{
+        top:500px;
+        margin-left:5px;
+    }
+    .slider2{
+        top:725px;
+        margin-left:5px;
+    }
+
+    .slider3{
+        top: 950px;
+        margin-left:5px;
+    }
+
+    .card-body{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .card-icon{
+        font-size: 20px !important;
+    }
+
+    .card-body{
+        top:90px !important;
+    }
+    .netflix-card-text{
+        font-size: 10.5px;
+    }
+
+    /*footer*/
+    .footer{
+        margin-top:550px;
+        height:360px;
+    }
+    
+    ul{
+        font-size:13px;
+    }
+    
+    .copy-right{
+        font-size: 13px;
+    }
+
+  }
+
+
+
+@media (min-width: 768px) and (max-width: 950px) {
+    .navbar-brand img{
+        width:70px !important;
+    }
+    .netflix-padding-left{
+        padding-left: 30px !important;
+    }
+    
+    .netflix-padding-right{
+        padding-right: 30px !important;
+    }
+
+    .netflix-row .right i{
+        font-size:16px;
+        color: #fff;
+        padding: 5px 10px !important;
+    }
+
+    .netflix-profile{
+        margin-left:  10px !important;
+    }
+
+    .netflix-home-video .content .left{
+        margin-left: 50px !important;
+    }
+
+    .netflix-home-video .content .left img{
+        margin-top: 140px !important;
+        width: 500px;
+     }
+
+     .netflix-home-video .content .left button{
+        font-size: 14px !important;
+        width: max-content !important;
+    }
+
+    /*slider */
+
+    .slider1{
+        top:400px;
+        margin-left:5px;
+    }
+    .slider2{
+        top:575px;
+        margin-left:5px;
+    }
+    .slider3{
+        top:775px;
+        margin-left:5px;
+    }
+
+    .card-body{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-right: 9px;
+        padding-left: 9px;
+    }
+
+    .card-icon{
+        font-size: 16px !important;
+    }
+
+    .card-body{
+        top:70px !important;
+    }
+    .netflix-card-text{
+        font-size: 9px;
+    }
+
+    /*footer*/
+    .footer{
+        margin-top:500px;
+        height:330px;
+    }
+    
+    ul{
+        font-size:12px;
+    }
+    
+    .copy-right{
+        font-size: 12px;
+    }
+
+
+  }
+
+
+
+@media(max-width:767.98px){
+    .navbar-brand img{
+        width:43px !important;
+    }
+
+    .netflix-padding-left{
+        padding-left: 10px !important;
+    }
+    
+    .netflix-padding-right{
+        padding-right: 10px !important;
+    }
+    .netflix-dropdown-box{
+        display:block !important;
+    }
+
+    .netflix-dropdown{
+        background-color: transparent;
+        color: white;
+        border:none;
+        font-size: 9px;
+    }
+
+    .netflix-dropdown-box .dropdown-menu{
+        background-color: #000000e1;
+        font-size: 9px !important;
+        color: white !important;
+        margin-left: -80px;
+        border-top: 3px solid #fff;
+        margin-top: 30px;
+    }
+    .netflix-dropdown-box .dropdown-menu .dropdown-item{
+        color: rgba(255, 255, 255, 0.8);
+        text-align: center;
+        width: 250px;
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+
+    .netflix-dropdown-box .dropdown-menu .dropdown-item:hover{
+        background-color: rgba(255, 255, 255, 0.108);
+        color:#fff;
+    }
+
+    .netflix-nav{
+        display:none;
+    }
+    .netflix-navbar{
+        padding:  0% !important;
+    }
+    .netflix-row .right i{
+        font-size:12px;
+        color: #fff;
+        padding: 5px !important;
+        cursor:pointer;
+    }
+
+    .netflix-profile{
+        margin-left:  5px !important;
+    }
+
+    .netflix-home-video .content .left{
+        margin-left: 25px !important;
+    }
+
+    .netflix-home-video .content .left img{
+        margin-top: 90px !important;
+        width: 200px;
+     }
+
+     .netflix-home-video .content .left button{
+        font-size: 10px !important;
+        width: max-content !important;
+        opacity: 0.8;
+    }
+
+    /*slider */
+
+    .slider1{
+        top:300px;
+        margin-left:5px;
+    }
+
+    .slider2{
+        top:430px;
+        margin-left:5px;
+    }
+
+    .slider3{
+        top:560px;
+        margin-left:5px;
+    }
+
+    .card-body{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-right: 7px;
+        padding-left: 7px;
+    }
+
+    .card-icon{
+        font-size: 12px !important;
+    }
+
+    .card-body{
+        top:55px !important;
+    }
+    .netflix-card-text{
+        font-size: 8px;
+    }
+    /*footer*/
+    .footer{
+        margin-top:380px;
+        height:300px;
+    }
+    
+    ul{
+        font-size:11px;
+    }
+    
+    .copy-right{
+        font-size: 11px;
+    }
+}
+
+
+@media(max-width:575.98px){
+
+        /*slider */
+
+    .slider1{
+        top:225px;
+        margin-left:5px;
+    }
+
+    .slider2{
+        top:625px;
+        margin-left:5px;
+    }
+
+    .slider3{
+        top:1025px;
+        margin-left:5px;
+    }
+
+    .card-body{
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+
+    .card-icon{
+        font-size: 16px !important;
+    }
+
+    .card-body{
+        top:90px !important;
+    }
+
+    .card:hover {
+        transform: scale(1.1);
+    }
+    .netflix-card-text{
+        font-size: 12px;
+    }
+    /*footer*/
+    .footer{
+        margin-top:1150px;
+        height:300px;
+    }
+    
+    ul{
+        font-size:10px;
+    }
+    
+    .copy-right{
+        font-size: 10px;
+    }
+
+}
